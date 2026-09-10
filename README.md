@@ -16,18 +16,7 @@ Hosted on **GitHub Pages** — Settings → Pages → Deploy from a branch → `
 
 To update the live site, replace `index.html` and commit.
 
-## Writeups
-
-- Cohort
-- Hercules
-- Odyssey
-- PingPong
-- Bedside
-- Paperwork
-- Enigma
-- Snapped
-
 ## Contact
 
 - **Portfolio:** https://saksht.github.io/pexpo/
-- **LinkedIn:** https://www.linkedin.com/in/akshat-singh-0971832b5/
+- **LinkedIn:** https://www.linkedin.com/in/akshat-singh-%E0%A4%85%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A4-%E0%A4%B8%E0%A4%BF%E0%A4%82%E0%A4%B9-0971832b5/
